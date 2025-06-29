@@ -194,7 +194,7 @@ CONJUGATIONS = {
         'creer': ['creo', 'crees', 'cree', 'creemos', 'creéis', 'creen'],
         'hablar': ['hablo', 'hablas', 'habla', 'hablamos', 'habláis', 'hablan'],
         'llevar': ['llevo', 'llevas', 'lleva', 'llevamos', 'lleváis', 'llevan'],
-        'dejar': ['dejo', 'dejas', 'deja', 'dejamos', 'dejáis', 'dejan'],deja', 'dejamos', 'dejáis', 'dejan'],
+        'dejar': ['dejo', 'dejas', 'deja', 'dejamos', 'dejáis', 'dejan'],
         'seguir': ['sigo', 'sigues', 'sigue', 'seguimos', 'seguís', 'siguen'],
         'encontrar': ['encuentro', 'encuentras', 'encuentra', 'encontramos', 'encontráis', 'encuentran'],
         'llamar': ['llamo', 'llamas', 'llama', 'llamamos', 'llamáis', 'llaman'],
